@@ -1,7 +1,7 @@
 
 
 <h1>Hi, I'm Tanjina ! 
-<h2> Data Science  ||  Machine learning 
+<h2> Data Analyst|| Data Science  ||  Machine learning 
 <h2> Data Analyst @Villanova University 
 <h2> MS in Computer Science @ Villanova University 
 
