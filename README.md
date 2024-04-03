@@ -6,7 +6,7 @@
 <h2> MS in Computer Science @ Villanova University 
 
 <h2>👨‍💻 Data Analyst Projects :</h2>
-
+https://github.com/Tanjinaaa/Data-Science-Projects
 <h2>👨‍💻 Machine Learning Projects :</h2>
 
 
